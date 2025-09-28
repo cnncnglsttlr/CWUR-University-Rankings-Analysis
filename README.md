@@ -1,8 +1,7 @@
 # CWUR University Rankings Analysis (2012–2015)
 
 ## Project Overview
-This project analyzes the **Center for World University Rankings (CWUR)** dataset (2012–2015).  
-The goal is to explore global university performance, identify key factors influencing rankings, and present findings through both **Python-based analysis** and an **interactive Tableau storyboard**.  
+This study analyzes the Center for World University Rankings (CWUR) dataset (2012–2015) to uncover patterns in global higher education performance. Using statistical analysis, geographical visualization, regression modeling, and clustering, the project identifies key drivers of university rankings. The findings highlight the strong influence of research outputs—particularly publications and citations—on overall university performance, while also revealing regional concentration of top-ranked institutions in the USA and UK. Clustering analysis groups universities into performance tiers, and time-series exploration indicates a slight decline in average scores over the four years. These insights provide a clearer understanding of the dynamics behind university rankings, offering value to policymakers, institutions, and prospective students.
 
 ## Objectives
 - Analyze global patterns in higher education rankings.  
