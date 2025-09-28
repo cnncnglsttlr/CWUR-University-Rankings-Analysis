@@ -34,6 +34,9 @@ README.md → project documentation
 ## Tableau Storyboard
 [View Interactive Dashboard](https://public.tableau.com/views/CWURUniversityRankingsAnalysis20122015/ProjectOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Case Study
+[View Case study pdf](https://www.dropbox.com/scl/fi/l6d5k3jyja5euzac1jaui/Case-Study_World-University-Rankings-Analysis.pdf?rlkey=6qxsoiw5tyly0kov776sz8eid&st=375pxlpr&dl=0)
+
 ## Tools Used
 - Python (pandas, matplotlib, seaborn, scikit-learn)  
 - Tableau Public  
