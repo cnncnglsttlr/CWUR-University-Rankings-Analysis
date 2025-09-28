@@ -1,4 +1,4 @@
-# CWUR University Rankings Analysis (2012–2015)
+# CWUR University Rankings Analysis
 
 ## Project Overview
 This project provides actionable insights into the factors driving global university rankings.
