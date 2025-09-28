@@ -1,6 +1,8 @@
 # CWUR University Rankings Analysis (2012–2015)
 
 ## Project Overview
+This project provides actionable insights into the factors driving global university rankings.
+
 This study analyzes the Center for World University Rankings (CWUR) dataset (2012–2015) to uncover patterns in global higher education performance. Using statistical analysis, geographical visualization, regression modeling, and clustering, the project identifies key drivers of university rankings. The findings highlight the strong influence of research outputs—particularly publications and citations—on overall university performance, while also revealing regional concentration of top-ranked institutions in the USA and UK. Clustering analysis groups universities into performance tiers, and time-series exploration indicates a slight decline in average scores over the four years. These insights provide a clearer understanding of the dynamics behind university rankings, offering value to policymakers, institutions, and prospective students.
 
 ## Objectives
@@ -14,10 +16,13 @@ notebooks/ → analysis tasks (6.2–6.6)
 case_study/ → project summary PDF
 README.md → project documentation
 
+## Methods used
+statistical analysis, regression modeling, clustering, and geographical visualization.
+
 ## Key Findings
 - Strong relationship between research output (publications, citations) and scores.  
-- Clear country-level differences (e.g., USA, UK, Switzerland outperform others).  
-- Overall decline in average university scores from 2012–2015.  
+- Clear country-level differences (USA, UK, Switzerland outperform others due to stronger research ecosystems).  
+- Overall decline in average scores suggests increasing competition and methodological changes in ranking.
 - Clustering reveals **3 distinct groups** of universities (high, medium, low performers).  
 
 ## Limitations
